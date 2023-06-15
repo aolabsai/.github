@@ -2,9 +2,9 @@
 
 If you're looking for a refuge from the doom or boom of the AI hype shitstorm, you've come to the right place.
 
-We're working on the next-level AI-- 
-* we're talking AI that learns via real induction, in a similar way to animals, because even inductivist turkies don't hallucinate like LLMs.
+We're working on the next layer of the AI stack-- 
 * seems inevitable to us that there will be a local layer of AI to ground and contextualize LLMs and pre-trained systems
+* we're talking AI that learns via real induction, with self-grounding, in a similar way to animals, because even though [chickens aren't as "smart" as GPT, they don't hallucinate](https://en.wikipedia.org/wiki/Problem_of_induction#:~:text=Domestic%20animals%20expect,to%20the%20chicken.).
 * many more things, join us on discord https://discord.gg/Zg9bHPYss5 and our website https://www.aolabs.ai/
 
 <!--

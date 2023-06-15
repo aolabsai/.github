@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome on in!
 
 If you're looking for a refuge from the doom or boom of the AI hype shitstorm, you've come to the right place.
 
